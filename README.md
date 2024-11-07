@@ -1,7 +1,7 @@
 ### Hello World!
 
 My name is Amiqatun Nasyati Yusri<br>
-I'm a student in Hasanuddin University<br>
+I'm a bachelor of informatics engineering from Universitas Hasanuddin<br>
 You can follow me in my linkedin [here](https://www.linkedin.com/in/amiqatun/)
 
 <a><h2>Stats</h2></a>
